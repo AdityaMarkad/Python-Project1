@@ -1,0 +1,28 @@
+{
+    "Adi@123": {
+        "name": "Sport Day",
+        "date": "22-10-2027",
+        "venue": "Main Ground",
+        "participants": [
+            {
+                "name": "Ranveer Yadav",
+                "email": "adityamarkad084@gmail.com"
+            }
+        ]
+    },
+    "ranveer@516": {
+        "name": "Sanjivani Colaberation Event",
+        "date": "16-11-2025",
+        "venue": "IIT Bombay",
+        "participants": [
+            {
+                "name": "Aditya markad",
+                "email": "adityamarkad2281@gmail.com"
+            },
+            {
+                "name": "Ashutosh Sirsat",
+                "email": "adityamarkad084@gmail.com"
+            }
+        ]
+    }
+}
